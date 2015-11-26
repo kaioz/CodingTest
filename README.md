@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kaioz/CodingTest.svg)](https://travis-ci.org/kaioz/CodingTest)
+
 #Coding Assessment Guidelines
 
 To validate a candidates skills in developing for mobile applications, we would like you to create a small application. We anticipate this challenge should take no more that 1-2 hours.
