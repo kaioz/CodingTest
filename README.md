@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/kaioz/CodingTest.svg)](https://travis-ci.org/kaioz/CodingTest)
 
+#Note
+
+As required, No 3rd party libraries been used in this submission. Dependency <Timber> is required by framework, but not been used in application itself. All other libraries are either from Google or my personal open source library.
+
+
 #Coding Assessment Guidelines
 
 To validate a candidates skills in developing for mobile applications, we would like you to create a small application. We anticipate this challenge should take no more that 1-2 hours.
