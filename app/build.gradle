@@ -73,6 +73,7 @@ android {
     }
 
     lintOptions {
+        abortOnError false
         disable 'IconDensities','InvalidPackage','IconMissingDensityFolder'
     }
 
