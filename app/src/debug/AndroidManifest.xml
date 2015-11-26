@@ -1,0 +1,22 @@
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application tools:ignore="GoogleAppIndexingWarning">
+
+        <activity android:name="com.cocosw.westpac.ui.MockActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:label="@string/mock_setting"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

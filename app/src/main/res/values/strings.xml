@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Westpac test</string>
+    <string name="failed_get_location">Failed to get your location</string>
+</resources>
